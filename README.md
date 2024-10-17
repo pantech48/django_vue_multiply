@@ -5,8 +5,8 @@
 2. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/project.git
-   cd project
+   git clone https://github.com/yourusername/django_vue_multiply.git
+   cd django_vue_multiply
    ```
 
 3. **Build and Run the Containers**:
