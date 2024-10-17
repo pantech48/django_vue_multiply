@@ -5,7 +5,7 @@
 2. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/django_vue_multiply.git
+   git clone https://github.com/pantech48/django_vue_multiply.git
    cd django_vue_multiply
    ```
 
